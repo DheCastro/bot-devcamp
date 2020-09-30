@@ -1,0 +1,123 @@
+{
+  "palestras": [
+                {
+                    "id": 1,
+                    "palestrante": "Gustavo Bigardi",
+                    "tema": "Plt1: Blazor - C#, WebAssembly e o futuro da Web",
+                    "link": "https://youtu.be/oY2Biu1kBYE?t=1268",
+                    "data": "2020-09-22"
+                },
+                {
+                    "id": 2,
+                    "palestrante": "Raquel da Rosa",
+                    "tema": "Plt2: Aplicações escaláveis em Angular",
+                    "link": "https://youtu.be/oY2Biu1kBYE?t=4080",
+                    "data": "2020-09-22"
+                },
+                {
+                    "id": 3,
+                    "palestrante": "Fábio Lima Santos",
+                    "tema": "Plt3: Event Sourcing - 2 anos depois",
+                    "link": "https://youtu.be/oY2Biu1kBYE?t=6733",
+                    "data": "2020-09-22"
+                },
+                {
+                    "id": 4,
+                    "palestrante": "Elemar Jr.",
+                    "tema": "Plt4: Priorizando dívidas técnicas e modernizando o legado - Como se tempo e dinheiro fossem importantes",
+                    "link": "https://youtu.be/oY2Biu1kBYE?t=9328",
+                    "data": "2020-09-22"
+                },
+                {
+                    "id": 5,
+                    "palestrante": "Thereza Bukow",
+                    "tema": "Plt5: IA e Empregabilidade – O Currículo Além do Papel",
+                    "link": "https://youtu.be/3tWHnzzU5lQ?t=950",
+                    "data": "2020-09-23"
+                },
+                {
+                    "id": 6,
+                    "palestrante": "Weslley Souza Patrocinio",
+                    "tema": "Plt6: Além do Teste A|B convencional: outras maneiras de experimentação",
+                    "link": "https://youtu.be/3tWHnzzU5lQ?t=3418",
+                    "data": "2020-09-23"
+                },
+                {
+                    "id": 7,
+                    "palestrante": "Everton Gago",
+                    "tema": "Plt7: Novos hábitos e novos valores: Provendo uma estratégia de crescimento baseada em dados em um mundo onde todos deveriam ouvir o cliente",
+                    "link": "https://youtu.be/3tWHnzzU5lQ?t=6470",
+                    "data": "2020-09-23"
+                },
+                {
+                    "id": 8,
+                    "palestrante": "Bruna Reginato",
+                    "tema": "Plt8: Transformar experiências e gerar resultados – Jornadas de aquisição",
+                    "link": "https://youtu.be/3tWHnzzU5lQ?t=9113",
+                    "data": "2020-09-23"
+                },
+                {
+                    "id": 9,
+                    "palestrante": "Duba",
+                    "tema": "Plt9: Fit for Purpose e como liderar organizações em busca do produto certo",
+                    "link": "https://youtu.be/sL2K4ptlIx8?t=795",
+                    "data": "2020-09-24"
+                },
+                {
+                    "id": 10,
+                    "palestrante": "Maycon Correia Leite",
+                    "tema": "Plt10: Gestão de projetos sem gestão de pessoas. É possível?",
+                    "link": "https://youtu.be/sL2K4ptlIx8?t=3560",
+                    "data": "2020-09-24"
+                },
+                {
+                    "id": 11,
+                    "palestrante": "Andrei Tognolo",
+                    "tema": "Plt11: Testes na TransferWise: Desafios ao se testar um sistema com mais de 300 serviços",
+                    "link": "https://youtu.be/sL2K4ptlIx8?t=6267",
+                    "data": "2020-09-24"
+                },
+                {
+                    "id": 12,
+                    "palestrante": "Mariana Dorta",
+                    "tema": "Plt12: DevSecOps – Onde a agilidade encontra a segurança",
+                    "link": "https://youtu.be/sL2K4ptlIx8?t=8822",
+                    "data": "2020-09-24"
+                },
+                {
+                    "id": 13,
+                    "palestrante": "Eduardo Ximenes Soares",
+                    "tema": "Plt13: DevOps, muito além do código!",
+                    "link": "https://youtu.be/sL2K4ptlIx8?t=11480",
+                    "data": "2020-09-24"
+                },
+                {
+                    "id": 14,
+                    "palestrante": "Luigi Parrini e Adriano Pequeno",
+                    "tema": "Plt14: Metodologia Mutant: construindo plataformas de atendimento humanizadas",
+                    "link": "https://youtu.be/kKcOXWEcacs?t=719",
+                    "data": "2020-09-25"
+                },
+                {
+                    "id": 15,
+                    "palestrante": "Fabio Calzavara",
+                    "tema": "Plt15: Como transformar a experiência na saúde utilizando inovação estratégica",
+                    "link": "https://youtu.be/kKcOXWEcacs?t=3370",
+                    "data": "2020-09-25"
+                },
+                {
+                    "id": 16,
+                    "palestrante": "Rafael Soares Gonçalves",
+                    "tema": "Plt16: Centralidade no cliente: desafio do relacionamento",
+                    "link": "https://youtu.be/kKcOXWEcacs?t=6156",
+                    "data": "2020-09-25"
+                },
+                {
+                    "id": 17,
+                    "palestrante": "Marcos Felinto",
+                    "tema": "Vendas: a área comercial reinventada",
+                    "link": "https://youtu.be/kKcOXWEcacs?t=8776",
+                    "data": "2020-09-24"
+                }
+              ]
+}
